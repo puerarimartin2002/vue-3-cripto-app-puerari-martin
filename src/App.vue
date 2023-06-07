@@ -10,9 +10,6 @@
     <el-menu-item index="1"
       ><router-link to="/">Crypto List</router-link></el-menu-item
     >
-    <el-menu-item index="2"
-      ><router-link to="/crypto/4">Crypto Info</router-link></el-menu-item
-    >
   </el-menu>
 
   <router-view />
